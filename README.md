@@ -1,4 +1,4 @@
-# excuela
+# Excuela Challenge
 
 A new Flutter project Excuela.
 
